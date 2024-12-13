@@ -6,11 +6,11 @@
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
 			embeddedservice_bootstrap.init(
-				'00DVd000002bFN7',
-				'Quick_Support_MIAW',
-				'https://unilever--cgtest.sandbox.my.site.com/ESWQuickSupportMIAW1733901719694',
+				'00DQy00000H5ypn',
+				'customer_portal',
+				'https://resourceful-fox-a2o4pb-dev-ed.trailblaze.my.site.com/ESWcustomerportal1733849211221',
 				{
-					scrt2URL: 'https://unilever--cgtest.sandbox.my.salesforce-scrt.com'
+					scrt2URL: 'https://resourceful-fox-a2o4pb-dev-ed.trailblaze.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -18,7 +18,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://unilever--cgtest.sandbox.my.site.com/ESWQuickSupportMIAW1733901719694/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://resourceful-fox-a2o4pb-dev-ed.trailblaze.my.site.com/ESWcustomerportal1733849211221/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
   </body>
 </html>
