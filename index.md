@@ -5,7 +5,7 @@
 		try {
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
-			embeddedservice_bootstrap.init(
+			embeddedservice_bootstrap.init( 
 				'00DQy00000H5ypn',
 				'customer_portal',
 				'https://resourceful-fox-a2o4pb-dev-ed.trailblaze.my.site.com/ESWcustomerportal1733849211221',
